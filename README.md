@@ -4,15 +4,15 @@
   </h3>
 </a>
 <p align="center">
-  <a href="https://github.com/libDrive/libDrive/releases">
+  <a href="https://github.com/libDrive/libDrive/releases](https://github.com/bartt-10101010/heroku">
     <img src="https://img.shields.io/github/downloads/libDrive/libDrive/total?color=%234197fe&style=for-the-badge" />
   </a>
-  <a href="https://github.com/libDrive/libDrive/releases/latest">
+  <a href="https://github.com/libDrive/libDrive/releases/latest](https://github.com/bartt-10101010/heroku">
     <img src="https://img.shields.io/github/v/release/libDrive/libDrive?color=%234197fe&style=for-the-badge" />
   </a>
 </p>
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/libDrive/heroku](https://github.com/bartt-10101010/heroku">
+  <a href="https://heroku.com/deploy?template=https://github.com/bartt-10101010/heroku">
     <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200" />
   </a>
 </p>
